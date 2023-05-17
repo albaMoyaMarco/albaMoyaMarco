@@ -2,7 +2,7 @@
 
 <!--
 **albaMoyaMarco/albaMoyaMarco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-I'm Alba, from Madrid, Spain. I'm a just graduated in UX-UI design looking for projects to collaborate in (specially related to videdogames and UX-UI or game design)
+I'm Alba, from Madrid, Spain. I'm a just graduated in UX-UI design looking for projects to collaborate in (specially related to videdogames and UX-UI or game design).
 I’m currently at CORREOS, designing digital services and products. 
 
 
