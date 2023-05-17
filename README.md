@@ -6,6 +6,6 @@ I'm Alba, from Madrid, Spain. I'm a just graduated in UX-UI design looking for p
 I’m currently at CORREOS, designing digital services and products. 
 
 
-- 📫 How to reach me: Contact me at my LinkedIn! https://www.linkedin.com/in/alba-moya-marco-95ba761a2/
+- 📫 How to reach me: Contact me at my <a href="https://www.linkedin.com/in/alba-moya-marco-95ba761a2/">LinkedIn!</a>
 - ⚡ Fun fact: i've played more than 300 rankeds this seasson in Overwatch and i'm still in Silver
 
